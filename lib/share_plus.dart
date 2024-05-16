@@ -10,7 +10,6 @@ import 'package:share_plus_platform_interface/share_plus_platform_interface.dart
 export 'package:share_plus_platform_interface/share_plus_platform_interface.dart'
     show ShareResult, ShareResultStatus, XFile;
 
-export 'src/share_plus_linux.dart';
 
 
 /// Plugin for summoning a platform share sheet.
